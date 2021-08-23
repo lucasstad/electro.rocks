@@ -1,7 +1,9 @@
 <template>
   <section class="section">
-    <div class="columns is-mobile">
-      Test
+    <div class="columns is-mobile is-centered">
+      <b-message type="is-success">
+        Test Site
+      </b-message>
     </div>
   </section>
 </template>
