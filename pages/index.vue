@@ -18,6 +18,7 @@
 
 <script>
 export default {
+
   name: 'HomePage',
 
   data() {
@@ -26,8 +27,5 @@ export default {
     }
   },
 
-  created() {
-
-  }
 }
 </script>
